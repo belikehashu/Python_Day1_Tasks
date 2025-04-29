@@ -1,4 +1,4 @@
-a = input("Enter Long String ")
+a = input("Enter Long String: ")
 b = a.split()
 b = list(b)
 b.reverse()
